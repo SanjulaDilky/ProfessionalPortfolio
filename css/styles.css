@@ -49,6 +49,6 @@ article{margin:1rem 0;padding:0.5rem;background:#fafafa;border-radius:6px}
 footer{margin-top:2rem;text-align:center;color:var(--muted);font-size:.95rem}
 
 @media(min-width:700px){
-    nav ul{justify-content:flex-start}
+    nav ul{justify-content:center}
     header h1{font-size:2rem}
 }
