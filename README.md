@@ -104,7 +104,7 @@ https://github.com/SanjulaDilky/ProfessionalPortfolio
 ## GitHub Pages URL
 
 ```text
-https://SanjulaDilky.github.io/ProfessionalPortfolio/
+https://sanjuladilky.github.io/ProfessionalPortfolio
 ```
 
 ## Future Improvements
