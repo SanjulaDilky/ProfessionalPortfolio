@@ -22,8 +22,17 @@ header{ text-align:center; margin-bottom:1rem }
 header h1{margin:.25rem 0;font-size:1.75rem}
 header p{margin:0;color:var(--muted)}
 
-nav ul{display:flex;flex-wrap:wrap;gap:.5rem;padding:0;list-style:none;justify-content:center}
-nav a{color:var(--accent);text-decoration:none;padding:.25rem .5rem;border-radius:4px}
+/* Centered nav bar */
+nav{
+    max-width:var(--max-width);
+    margin:0 auto 1rem;
+    background: #ffffff;
+    padding:.5rem 1rem;
+    border-radius:8px;
+    box-shadow:0 1px 6px rgba(16,24,40,0.06);
+}
+nav ul{display:flex;flex-wrap:wrap;gap:.5rem;padding:0;margin:0;list-style:none;justify-content:center}
+nav a{color:var(--accent);text-decoration:none;padding:.4rem .75rem;border-radius:6px;display:inline-block}
 nav a:hover{background:#f0f8ff}
 
 section{margin:1.25rem 0;padding:0 0.5rem}
